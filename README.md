@@ -1,7 +1,6 @@
-## About Me 👋
+## Greetings 👋
 
-<!--
-**JamboKurni/JamboKurni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am James and I am looking to seek a career in the world of technology and data, specifically in artificial intelligence and data science. 
 
-Hello, I'm James and I'm currently an undergraduate physics student looking to seek a career in the world of technology and data, specifically in artificial intelligence and data science. 
+I currently study physics at university and would be interested in some work experience in these fields. 
 
