@@ -4,6 +4,8 @@ I am looking to seek a career in the world of data and technology, with a focus 
 
 Currently studying Physics and Astrophysics at university and searching for work experience and internships in these fields. 
 
-My GitHub profile will be a portfolio to showcase the projects I have done in these fields. 
+Below are projects that I have completed with the latest being pinned below:
 
-More to come soon...
+
+
+## More coming soon... 👀
