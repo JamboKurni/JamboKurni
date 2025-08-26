@@ -1,6 +1,6 @@
-# Greetings 👋
+# Greetings I am James 👋
 
-I am James and I am looking to seek a career in the world of data and technology, with a focus on artificial intelligence and data science. 
+I am looking to seek a career in the world of data and technology, with a focus on artificial intelligence, machine learning and data science. 
 
 Currently studying Physics and Astrophysics at university and searching for work experience. 
 
