@@ -1,4 +1,4 @@
-# Greetings I am James 👋
+# Greetings 👋
 
 I am interested in computational physics, data science, machine learning, artificial intelligence and all things technology!
 
